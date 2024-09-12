@@ -24,21 +24,22 @@ The dataset used for this analysis includes historical trip data provided by Cyc
 
 ## Key Findings
 
-- **Behavioral Insights:** Significant differences in trip duration, frequency, and time of use between casual riders and annual members were identified.
-- **Seasonal Trends:** Usage peaks were observed during specific seasons and times of the day, providing insights into rider behavior.
-- **Conversion Opportunities:** Based on the analysis, top 3 strategies were recommended to Cyclistic to encourage casual riders to become annual members.
+- **Member Riders' Commuting** Significant differences in trip duration, frequency, and time of use between casual riders and annual members were identified.
+- **Casual Riders' Recreation:** Casual riders use the bikes for leisure, city exploration, and outdoor activities, showing a more flexible and recreational usage pattern.
+- **Seasonal Popularity:** Usage peaks during the summer months, especially in July and August, due to favorable weather and longer daylight hours.
+- **Weekend Usage:** Both member and casual riders show increased bike usage on weekends, likely driven by more free time and leisure opportunities.
 
 ## Recommendations
 
-- **Summer Membership:** Offer a seasonal membership to attract casual riders during peak summer months, providing a stepping stone toward full annual memberships.
+- **Summer Membership:** Members primarily use the bike service for daily work commutes, integrating it into their weekday routines.
 - **Weekday & Short Trip Discounts:** Introduce discounts for weekday and short trips to encourage casual riders to use bikes for daily commutes rather than just recreational activities.
 - **Promote Regular Use:** Highlight the convenience, health benefits, and environmental impact of biking to motivate casual riders to adopt regular bike usage.
 
 ## Tools Used
 - **MS Excel:** To prepare the data for analysis
-- **Python:** For data cleaning, analysis, and visualization.
-- **Pandas:** For data manipulation and analysis.
-- **Matplotlib & Seaborn:** For data visualization.
+- **Python:** Programming language chosen for data cleaning, analysis, and visualization.
+- **Pandas:** Python package, for data manipulation and analysis.
+- **Matplotlib & Seaborn:** Python package, for data visualization.
 - **Jupyter Notebook:** For documenting the analysis process.
 
 ## Conclusion
